@@ -14,7 +14,7 @@ In order to evaluate our model, we use
 ```
 python test.py
 ```
-##Training
+## Training
 
 In order to retrain our model, we use
 ```
