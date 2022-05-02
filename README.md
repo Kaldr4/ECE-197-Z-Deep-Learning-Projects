@@ -7,5 +7,5 @@ Harvey Daryll S. Bernardo
 BS Computer Engineering
 
 
-#In order to test our model
+# In order to test our model
 
