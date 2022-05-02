@@ -1,5 +1,5 @@
 # ECE 197 Z Deep Learning - Assignment 2
-### Object Detection Finetuning using the COCO Dataset
+### Object Detection Model Finetuning using the COCO Dataset
 --------------------------------------------------------------------------------
 
 Harvey Daryll S. Bernardo
