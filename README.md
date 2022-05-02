@@ -1,5 +1,6 @@
 # ECE 197 Z Deep Learning - Assignment 2: Object Detection
 
+--------------------------------------------------------------------------------
 Harvey Daryll S. Bernardo
 
 2018-05734
