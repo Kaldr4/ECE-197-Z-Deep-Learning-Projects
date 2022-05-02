@@ -7,5 +7,10 @@ Harvey Daryll S. Bernardo
 BS Computer Engineering
 
 
-# In order to test our model
+## Testing
 
+In order to evaluate our model, we use 
+
+```
+python test.py
+```
