@@ -6,9 +6,5 @@ Harvey Daryll S. Bernardo
 
 BS Computer Engineering
 
-Electrical and Electronics Engineering Institute (EEEI),
 
-College of Engineering,
-
-University of the Philippines Diliman
 
