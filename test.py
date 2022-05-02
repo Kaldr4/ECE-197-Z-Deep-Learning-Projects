@@ -7,6 +7,7 @@ import utils
 from torch.utils.data import DataLoader
 import gdown
 import tarfile
+import os
 
 def main():
     url = 'https://drive.google.com/file/d/1AdMbVK110IKLG7wJKhga2N2fitV1bVPA/view'
@@ -15,7 +16,12 @@ def main():
     tar = tarfile.open(output)
     tar.extractall()
     tar.close()
-   
+
+    if not os.path.exists('model.pkl'):
+        url = 'https://github.com/Kaldr4/EEE-197-Assignment-2/releases/download/Model/model.pkl'
+        output = 'model.pkl'
+        gdown.download(url = url, output = output, quiet = False, fuzzy = True)
+        
     device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
     test_dict, test_classes = label_utils.build_label_dictionary("drinks/labels_test.csv")
     test_split = DrinksDataset(test_dict, get_transform(train = False))
