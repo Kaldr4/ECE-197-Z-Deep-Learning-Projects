@@ -7,6 +7,15 @@ Harvey Daryll S. Bernardo
 BS Computer Engineering
 
 
+
+
+## Dependencies
+Running the following command will install the prerequesites needed
+
+```
+pip install -r requirements.txt
+```
+
 ## Testing
 
 In order to evaluate our model, we use 
