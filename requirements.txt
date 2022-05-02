@@ -1,0 +1,8 @@
+cython
+pycocotools
+opencv-python
+imutils
+numpy
+gdown
+tarfile
+matplotlib
