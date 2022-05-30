@@ -1,4 +1,4 @@
-# ECE 197 Z Deep Learning - Assignment 2
+# ECE 197 Z Deep Learning - Assignment 3
 ### Object Detection Model Finetuning using the COCO Dataset
 --------------------------------------------------------------------------------
 
@@ -21,17 +21,15 @@ Running the following command will install the prerequesites needed
 pip install -r requirements.txt
 ```
 
-## Testing
-
-In order to evaluate our model, we use 
-
-```
-python test.py
-```
 ## Training
 
 In order to retrain our model, we use
 ```
 python train.py
 ```
+## Demo
 
+In order to obtain a live demo of our model, we use
+```
+python kws-infer.py
+```
