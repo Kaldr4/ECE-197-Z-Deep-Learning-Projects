@@ -1,5 +1,5 @@
 # ECE 197 Z Deep Learning - Assignment 3
-### Object Detection Model Finetuning using the COCO Dataset
+### KWS Using Transformers
 --------------------------------------------------------------------------------
 
 Harvey Daryll S. Bernardo
