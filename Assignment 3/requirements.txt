@@ -1,0 +1,17 @@
+numpy
+scipy
+Pillow
+matplotlib
+scikit-image
+librosa
+timm
+einops
+gradio
+transformers
+sentencepiece
+accelerate
+wandb
+sounddevice
+validators
+PySimpleGUI
+pytorch_lightning
