@@ -1,4 +1,4 @@
-# ECE 197 Z Deep Learning - Assignment 3
+# Audio Recognition Deep Learning Project
 ### KWS Using Transformers
 --------------------------------------------------------------------------------
 
